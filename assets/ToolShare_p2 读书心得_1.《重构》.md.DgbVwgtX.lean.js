@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.vOILIgLK.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ToolShare/p2 读书心得/1.《重构》.md","filePath":"ToolShare/p2 读书心得/1.《重构》.md"}'),o={name:"ToolShare/p2 读书心得/1.《重构》.md"};function r(_,s,c,n,p,d){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};
