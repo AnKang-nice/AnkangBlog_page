@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.vOILIgLK.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MyToolList/我的项目/项目地址.md","filePath":"MyToolList/我的项目/项目地址.md"}'),a={name:"MyToolList/我的项目/项目地址.md"};function s(r,c,n,_,i,p){return o(),e("div")}const m=t(a,[["render",s]]);export{l as __pageData,m as default};
